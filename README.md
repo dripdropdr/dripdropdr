@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **🖤Sumin Hong**
+<br>
 LinkedIn: https://www.linkedin.com/in/sumin-hong-b43931221/
