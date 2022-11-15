@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 ### 🖤Sumin Hong
 <br>
-LinkedIn: https://www.linkedin.com/in/sumin-hong-b43931221/
+LinkedIn: https://www.linkedin.com/in/sumin-hong-b43931221/  
 Velog: https://velog.io/@dripdropdr
