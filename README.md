@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 -->
 ### 🖤Sumin Hong
 <br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dripdropdr&show_icons=true?count_private=true&hide=prs" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dripdropdr&layout=compact&hide=html,css?count_private=true" />
+</a>
 
-[![dripdropdr's GitHub stats](https://github-readme-stats.vercel.app/api?username=dripdropdr)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dripdropdr)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 LinkedIn: https://www.linkedin.com/in/sumin-hong-b43931221/  <br>
