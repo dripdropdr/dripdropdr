@@ -20,8 +20,16 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dripdropdr&layout=compact&hide=html,css?count_private=true" />
 </a>
-
-
 <br>
-LinkedIn: https://www.linkedin.com/in/sumin-hong-b43931221/  <br>
+<br>
+
+<div align=center>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumin-hong-b43931221/)](https://www.linkedin.com/in/sumin-hong-b43931221/)
+[![Velog Badge](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dripdropdr/)](https://velog.io/@dripdropdr/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workingsumin@gmail.com)](mailto:workingsumin@gmail.com)
+
+</div>
+  
+<br>
 Velog: https://velog.io/@dripdropdr
