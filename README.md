@@ -12,18 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🖤Sumin Hong
-<br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dripdropdr&show_icons=true?count_private=true&hide=prs" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dripdropdr&layout=compact&hide=html,css?count_private=true" />
-</a>
-<br>
+## 🖤 Sumin Hong
+
 <br>
 
-<div align=center>
+### 🤍 Skills
+<div>
+  
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
+[![Pytorch Badge](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)]()
+[![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)]()
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)]()
+[![Kotlin Badge](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)]()
+
+</div>
+
+<br>
+
+### 🤍 Contacts
+
+<div>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumin-hong-b43931221/)](https://www.linkedin.com/in/sumin-hong-b43931221/)
 [![Velog Badge](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dripdropdr/)](https://velog.io/@dripdropdr/)
@@ -32,4 +40,14 @@ Here are some ideas to get you started:
 </div>
   
 <br>
-Velog: https://velog.io/@dripdropdr
+
+### 🤍 Git Stats
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dripdropdr&show_icons=true?count_private=true&hide=prs" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dripdropdr&layout=compact&hide=html,css?count_private=true" />
+</a>
+
+<br>
