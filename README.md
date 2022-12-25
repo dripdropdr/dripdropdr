@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 -->
 ## 🖤 Sumin Hong
 
+- 👋 Hello, I'm Sumin
+- 🤔 I’m interested in ML/AI
+- 🔭 I’m currently working on Vision & Learning Lab(Intern)
+- 🌱 I’m currently learning in ITM major, Seoul National University of Science and Technology
+
 <br>
 
-### 🤍 Skills
+## ⚡ Skills
 <div>
   
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
@@ -29,7 +34,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### 🤍 Contacts
+## 📫 Contacts
 
 <div>
   
@@ -41,7 +46,7 @@ Here are some ideas to get you started:
   
 <br>
 
-### 🤍 Git Stats
+## ✔ Git Stats
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dripdropdr&show_icons=true?count_private=true&hide=prs" />
