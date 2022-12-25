@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dripdropdr&show_icons=true?count_private=true&hide=prs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dripdropdr&layout=compact&hide=html,css?count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dripdropdr&hide=html,css?count_private=true" />
 </a>
 
 <br>
