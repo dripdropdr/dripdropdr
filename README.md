@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 👋 Hello, I'm Sumin
 - 🤔 I’m interested in ML/AI
-- 🔭 I’m currently working on Vision & Learning Lab(Intern)
+- 🔭 I’m currently working on Interaction Lab
 - 🌱 I’m currently learning in ITM major, Seoul National University of Science and Technology
 
 <br>
