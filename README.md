@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🖤 Sumin Hong
+## Sumin Hong
 
 - 👋 Hello, I'm Sumin
 - 🤔 I’m interested in ML/AI
-- 🔭 I’m currently working on Interaction Lab
-- 🌱 I’m currently learning in ITM major, Seoul National University of Science and Technology
+- 🔭 I’m currently working on [KAIST Interaction Lab](https://www.kixlab.org)
+- 🌱 I’m currently learning in [ITM major](https://itm.seoultech.ac.kr), Seoul National University of Science and Technology
 
 <br>
 
