@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 ## Sumin Hong
 
-- 👋 Hello, I'm Sumin
-- 🤔 I’m interested in ML/AI
+- 👋 Hello, I'm Sumin :D
+- 🤔 I’m interested in Human-AI Interaction
 - 🔭 I’m currently working on [KAIST Interaction Lab](https://www.kixlab.org)
-- 🌱 I’m currently learning in [ITM major](https://itm.seoultech.ac.kr), Seoul National University of Science and Technology
+- 🌱 I’m majoring in [ITM](https://itm.seoultech.ac.kr), Seoul National University of Science and Technology
 
 <br>
 
